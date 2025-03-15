@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JonathanKocur
-- 👀 I’m interested in ... Working in software engineering and data science for the medical device industry!
+- 👀 I’m interested in ... Working in software engineering for the medical device industry!
 - 💞️ A little about my profile ... I am using GitHub to showcase some of my projects and schoolwork
 - 🌱 I’m currently learning ... C++ to refresh my coding skills
 - 📫 How to reach me ... LinkedIn -> www.linkedin.com/in/jonathan-kocur-771a57170
